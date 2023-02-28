@@ -1,18 +1,6 @@
-<p align="center">
-  <a href="https://14daysofjs.netlify.app/">
-    <img alt="Banner" height="100%" width="100%"  src="https://www.linkpicture.com/q/20230227_114126_0000.png">
-  </a>
-</p>
-
 # 🛠 Tech Stack Used in this Repository...
- <a href="" target="_blank"> <img align="center" src="https://cdn-icons-png.flaticon.com/128/3097/3097008.png" alt="C Language" height="50" width="50" /> </a> 
-   &nbsp;&nbsp;
  <a href="" target="_blank"> <img align="center" src="https://cdn-icons-png.flaticon.com/128/8263/8263095.png" alt="CPP Language" height="50" width="50" /> </a>
-   &nbsp;&nbsp;
-  <a href="" target="_blank"> <img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968282.png" alt="Java" height="50" width="50" /> </a>
-  &nbsp;&nbsp;
-  <a href="" target="_blank"> <img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" alt="Python" height="50" width="50" /> </a>
-   
+   &nbsp;&nbsp;   
 
 # 100DaysOfDSA
 
