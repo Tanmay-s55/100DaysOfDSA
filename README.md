@@ -21,7 +21,7 @@
     <th></th>  <th>Status</th>   <th>Problem Name</th>   <th>Problem Solution</th>
   </tr>
   <tr>
-    <td>Day 1</td>   <td>❌ or ✅</td>  <td>Name Here</td>   <td><a href="">Click Here</a></td>
+    <td>Day 1</td>   <td>❌</td>  <td>Update Queries</td>   <td><a href="">Click Here</a></td>
   </tr> 
 </table> 
 
