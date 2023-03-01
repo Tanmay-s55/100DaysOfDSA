@@ -21,7 +21,7 @@
     <th></th>  <th>Status</th>   <th>Problem Name</th>   <th>Problem Solution</th>
   </tr>
   <tr>
-    <td>Day 1</td>   <td>❌ or ✅</td>  <td>Name Here</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%201/Problem%20Name_LeetCode">Click Here</a></td>
+    <td>Day 1</td>   <td>❌ or ✅</td>  <td>Sort an Array</td>   <td><a href="https://github.com/Tanmay-s55/100DaysOfDSA/blob/main/Day%201/LC%20-%20Sort%20an%20Array/Sort%20an%20Array.cpp">Click Here</a></td>
   </tr> 
 </table> 
 
