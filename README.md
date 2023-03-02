@@ -13,7 +13,7 @@
     <td>Day 1</td>   <td>✅</td>  <td>Sort an Array</td>   <td><a href="https://github.com/Tanmay-s55/100DaysOfDSA/blob/main/Day%201/LC%20-%20Sort%20an%20Array/Sort%20an%20Array.cpp">Click Here</a></td>
   </tr> 
   <tr>
-   <td>Day 2</td>   <td>✅</td>  <td>String Compression</td>   <td><a href="https://github.com/Tanmay-s55/100DaysOfDSA/blob/main/Day%201/LC%20-%20Sort%20an%20Array/Sort%20an%20Array.cpp">Click Here</a></td>
+   <td>Day 2</td>   <td>✅</td>  <td>String Compression</td>   <td><a href="https://github.com/Tanmay-s55/100DaysOfDSA/tree/main/Day%202/LC%20-%20String%20Compression">Click Here</a></td>
  </tr>
   
 </table> 
@@ -27,7 +27,7 @@
     <td>Day 1</td>   <td>❌</td>  <td>Update Queries</td>   <td><a href="">Click Here</a></td>
   </tr> 
  <tr>
-    <td>Day 2</td>   <td>✅</td>  <td>Walls Coloring II</td>   <td><a href="">Click Here</a></td>
+    <td>Day 2</td>   <td>✅</td>  <td>Walls Coloring II</td>   <td><a href="https://github.com/Tanmay-s55/100DaysOfDSA/tree/main/Day%202/GFG%20-%20Walls%20Coloring%20ll">Click Here</a></td>
  </tr>
 </table> 
 
