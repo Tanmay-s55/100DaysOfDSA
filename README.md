@@ -25,8 +25,10 @@
   </tr>
   <tr>
     <td>Day 1</td>   <td>❌</td>  <td>Update Queries</td>   <td><a href="">Click Here</a></td>
-    <td>Day 1</td>   <td>✅</td>  <td>Walls Coloring II</td>   <td><a href="">Click Here</a></td>
   </tr> 
+ <tr>
+    <td>Day 2</td>   <td>✅</td>  <td>Walls Coloring II</td>   <td><a href="">Click Here</a></td>
+ </tr>
 </table> 
 
 
