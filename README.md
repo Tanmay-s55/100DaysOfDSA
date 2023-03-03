@@ -15,7 +15,9 @@
   <tr>
    <td>Day 2</td>   <td>✅</td>  <td>String Compression</td>   <td><a href="https://github.com/Tanmay-s55/100DaysOfDSA/tree/main/Day%202/LC%20-%20String%20Compression">Click Here</a></td>
  </tr>
-  
+  <tr>
+   <td>Day 3</td>   <td>✅</td>  <td>Find the Index of the First Occurrence in a String</td>   <td><a href="https://github.com/Tanmay-s55/100DaysOfDSA/tree/main/Day%202/LC%20-%20String%20Compression">Click Here</a></td>
+ </tr>
 </table> 
 
 ## GeeksForGeeks
@@ -28,6 +30,9 @@
   </tr> 
  <tr>
     <td>Day 2</td>   <td>✅</td>  <td>Walls Coloring II</td>   <td><a href="https://github.com/Tanmay-s55/100DaysOfDSA/tree/main/Day%202/GFG%20-%20Walls%20Coloring%20ll">Click Here</a></td>
+ </tr>
+  <tr>
+    <td>Day 3</td>   <td>✅</td>  <td>Cutting Rectangles</td>   <td><a href="https://github.com/Tanmay-s55/100DaysOfDSA/tree/main/Day%202/GFG%20-%20Walls%20Coloring%20ll">Click Here</a></td>
  </tr>
 </table> 
 
