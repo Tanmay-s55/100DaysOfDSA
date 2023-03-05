@@ -19,7 +19,7 @@
    <td>Day 3</td>   <td>✅</td>  <td>Find the Index of the First Occurrence in a String</td>   <td><a href="https://github.com/Tanmay-s55/100DaysOfDSA/blob/main/Day%203/LC%20-%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.cpp">Click Here</a></td>
  </tr>
  <tr>
-   <td>Day 4</td>   <td>✅</td>  <td>Count Subarrays with Fixed Bound</td>   <td><a href="https://github.com/Tanmay-s55/100DaysOfDSA/blob/main/Day%203/LC%20-%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.cpp">Click Here</a></td>
+   <td>Day 4</td>   <td>✅</td>  <td>Count Subarrays with Fixed Bound</td>   <td><a href="https://github.com/Tanmay-s55/100DaysOfDSA/blob/main/Day%204/LC%20-%20Count%20Subarrays%20With%20Fixed%20Bounds/count%20subarrays%20with%20fixed%20bound.cpp">Click Here</a></td>
  </tr>
 </table> 
 
